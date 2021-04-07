@@ -39,7 +39,7 @@ body {
   transform: scale(1.01);
 }
 
-.card img:hover {
+.card .img:hover {
   border-radius: 50%;
   background-color: rgba(255, 192, 203, 0.11);
 }
